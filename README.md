@@ -2,7 +2,6 @@
 - pip install virtualenv
 - mkdir Proyek
 - cd Proyek
-- cd dashboard
 - python -m venv .env  # Membuat environment bernama .env
 - .\.env\Scripts\activate  # pada powershell windows
 - pip install -r requirements.txt
