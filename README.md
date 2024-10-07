@@ -1,11 +1,11 @@
 ## Setup Environment - Shell/Terminal
-pip install virtualenv
-mkdir Proyek
-cd Proyek
-cd dashboard
-python -m venv .env  # Membuat environment bernama .env
-.\.env\Scripts\activate  # pada powershell windows
-pip install -r requirements.txt
+- pip install virtualenv
+- mkdir Proyek
+- cd Proyek
+- cd dashboard
+- python -m venv .env  # Membuat environment bernama .env
+- .\.env\Scripts\activate  # pada powershell windows
+- pip install -r requirements.txt
 
 ## Instalasi package python pada .env
 (.env) $ pip list
