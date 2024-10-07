@@ -7,8 +7,8 @@
 - pip install -r requirements.txt
 
 ## Instalasi package python pada .env
-(.env) $ pip list
-(.env) $ pip freeze > requirements.txt
+- (.env) $ pip list
+- (.env) $ pip freeze > requirements.txt
 
 ## Untuk menonaktifkan virtual environment:
 (.env) $ deactivate
