@@ -1,0 +1,7 @@
+﻿DateTime==5.5
+matplotlib==3.9.2
+numpy==2.1.2
+pandas==2.2.3
+seaborn==0.13.2
+textblob==0.18.0.post0
+
